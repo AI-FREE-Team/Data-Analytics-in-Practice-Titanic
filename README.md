@@ -3,7 +3,7 @@
 
 # Data Analytics in Practice - Titanic Survival
 
-# 資料分析實作 - 鐵達尼號生存預測
+# 資料分析實作 - 鐵達尼號生存預測 <a href="https://colab.research.google.com/github/AI-FREE-Team/Data-Analytics-in-Practice-Titanic/blob/master/Data%20Analytics%20in%20Practice%20-%20Titanic%20Survival%20Prediction.ipynb"><img src="https://img.shields.io/badge/%E5%AF%A6%E4%BD%9C-Colab-yellow.svg?style=popout-square" alt="實作 Colab"></a>
 
 
 ## 實作說明
