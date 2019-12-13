@@ -1,11 +1,13 @@
-# Data-Analytics-in-Practice-Titanic
 
 ![人工智慧 - 自由團隊](https://raw.githubusercontent.com/chenkenanalytic/img/master/af/aifreeteam.png)
+
+# Data Analytics in Practice - Titanic Survival
 
 # 資料分析實作 - 鐵達尼號生存預測
 
 
-## 本專案說明 - Data-Analytics-in-Practice-Titanic
+## 實作說明
+
 1. 本課程提供<b> 資料分析初學者 </b>進行分析方法的學習、熟習。
 
 2. 本適合有接觸過Python基礎者，若沒碰過Python，歡迎參考 AI . FREE Team 推出的<a href="https://github.com/AI-FREE-Team/Python-Basics">Python基礎教學</a>。
