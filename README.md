@@ -6,7 +6,8 @@
 
 
 ## 本專案說明 - Data-Analytics-in-Practice-Titanic
-1. 本課程提供<b> 資料分析初學者 </b>進行分析方法的學習、熟習。(適合有接觸過Python基礎者，若沒碰過Python，歡迎參考 AI . FREE Team 推出的<a href="https://github.com/AI-FREE-Team/Python-Basics">Python基礎教學</a>。)
+1. 本課程提供<b> 資料分析初學者 </b>進行分析方法的學習、熟習。
+※(適合有接觸過Python基礎者，若沒碰過Python，歡迎參考 AI . FREE Team 推出的<a href="https://github.com/AI-FREE-Team/Python-Basics">Python基礎教學</a>。)
 
 2. 學習本課程不須建置系統環境，僅需要<b>網路連線</b> & <b>Google Chrome瀏覽器</b>即可開始學習。
 
